@@ -14,7 +14,7 @@ Las visualizaciones muestran los resultados de los promedios del nivel IV medio 
 **¿Qué hicimos?**:
 - Descargamos las bases de datos junto a los documentos que reseñan cada una de las variables. 
 - Cada DF fue revisado y se aplicó la limpieza de datos: Nan; eliminación de filas con datos faltantes, conversión de object a float. En este caso, trabajamos con librería de Python. 
-- Posteriormente concatenamos los DF. En este caso notamos, que el df del 2021 tiene un declarado 330.005 estudiantes en relación a laos 978.137 del 2020 pero reporta mayor número de egresado: 280.013, 40.000 aprox. que los años anteriores. No hay información de esta diferencia en el Mineduc. 
+- Posteriormente concatenamos los DF. En este caso notamos, que el df del 2021 tiene un declarado 330.005 estudiantes en relación a laos 978.137 del 2020 pero reporta mayor número de egresado: 280.013, que son 40.000 aprox. menos que los años anteriores. No hay información de esta diferencia en el Mineduc. 
 - Organizamos la información en función de nuestra pregunta guía y visualizamos con Seaborn incluyendo la **media nacional** de los promedios. 
 - Entregamos algunas conclusiones
 
