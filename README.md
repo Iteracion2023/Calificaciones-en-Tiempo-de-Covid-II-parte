@@ -9,7 +9,7 @@ Educación Técnico Profesional (II parte)</h1>
 
 Para responder esta inquietud, decidimos recurrir a los datos oficiales que entrega el Mineduc. Por lo cual, utilizamos a sus  base de datos: **<i>"Notas y egresados de enseñanza media"</i>** de los años 2018, 2019, 2020, 2021. Consideramos el 2018 como punto de partida , porque fue el año que se creó la última región: Ñuble y como punto final el 2021, porque aun no están publicados los datos del 2022.
 
-Las visualizaciones muestran los resultados de los promedios del nivel IV medio en cada uno de estos años en **<i>establecimientos educativos <i>**Técnicos Profesionales</i>**. Los resultados se presentan por regiones y solo tienen un **carácter exploratorio.**
+Las visualizaciones muestran los resultados de los promedios del nivel IV medio en cada uno de estos años en establecimientos educativos **<i>Técnicos Profesionales</i>**. Los resultados se presentan por regiones y solo tienen un **carácter exploratorio.**
 
 **¿Qué hicimos?**:
 - Descargamos las bases de datos junto a los documentos que reseñan cada una de las variables. 
@@ -20,5 +20,5 @@ Las visualizaciones muestran los resultados de los promedios del nivel IV medio 
 
 **Archivos:**
   - El script con el trabajo realizado esta en formato html.
-  - Presentanci{on en pdf con los gráficos y las conclusiones.
+  - Presentanción en pdf con los gráficos y las conclusiones.
   - Debido al peso de las DF que no permitieron subirlas a este repositorio (tampoco en formato RAR), dejamaos el link para que puedan ser descargados directamente de la web del MINEDUC: https://datosabiertos.mineduc.cl/notas-y-egresados-de-ensenanza-media/
